@@ -1,0 +1,2622 @@
+{
+  "Florida Panthers": {
+    "Eetu Luostarinen": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Anton Lundell": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Sam Reinhart": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Carter Verhaeghe": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Sam Bennett": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Matthew Tkachuk": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Sandis Vilmanis": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Cole Schwindt": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "A.J. Greer": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jesper Boqvist": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Luke Kunin": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Mackie Samoskevich": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Gustav Forsling": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jeff Petry": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Niko Mikkola": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Uvis Balinskis": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Donovan Sebrango": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Mikulas Hovorka": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Sergei Bobrovsky": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Daniil Tarasov": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "San Jose Sharks": {
+    "Will Smith": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Macklin Celebrini": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Kiefer Sherwood": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "William Eklund": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Michael Misa": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Tyler Toffoli": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Philipp Kurashev": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Alexander Wennberg": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Collin Graf": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Barclay Goodrow": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Zack Ostapchuk": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Adam Gaudette": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Mario Ferraro": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Timothy Liljegren": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Dmitry Orlov": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "John Klingberg": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Shakir Mukhamadullin": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Vincent Desharnais": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Yaroslav Askarov": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Alex Nedeljkovic": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Pittsburgh Penguins": {
+    "Anthony Mantha": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Sidney Crosby": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Bryan Rust": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Egor Chinakhov": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Tommy Novak": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Evgeni Malkin": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Connor Dewar": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Ben Kindel": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Justin Brazeau": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Rutger McGroarty": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Kevin Hayes": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Avery Hayes": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Parker Wotherspoon": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Erik Karlsson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brett Kulak": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ryan Shea": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ilya Solovyov": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Connor Clifton": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Stuart Skinner": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Arturs Silovs": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Tampa Bay Lightning": {
+    "Brandon Hagel": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jake Guentzel": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Nikita Kucherov": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Oliver Bjorkstrand": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Dominic James": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Gage Goncalves": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Zemgus Girgensons": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Yanni Gourde": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Pontus Holmberg": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Curtis Douglas": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Nick Paul": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Scott Sabourin": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "J.J. Moser": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Darren Raddysh": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ryan McDonagh": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Erik Cernak": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Victor Hedman": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Declan Carlile": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Andrei Vasilevskiy": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Jonas Johansson": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Vegas Golden Knights": {
+    "Ivan Barbashev": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jack Eichel": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mark Stone": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Pavel Dorofeyev": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Mitch Marner": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Reilly Smith": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Alexander Holtz": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Tomas Hertl": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Keegan Kolesar": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Cole Reinhardt": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Kai Uchacz": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Braeden Bowman": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jeremy Lauzon": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Shea Theodore": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Noah Hanifin": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Rasmus Andersson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ben Hutton": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Kaedan Korczak": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Akira Schmid": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Adin Hill": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Montreal Canadiens": {
+    "Cole Caufield": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Nick Suzuki": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Kirby Dach": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Juraj Slafkovsky": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Oliver Kapanen": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Ivan Demidov": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Joe Veleno": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jake Evans": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Zack Bolduc": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Josh Anderson": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Phillip Danault": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Brendan Gallagher": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Lane Hutson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Noah Dobson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Mike Matheson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Kaiden Guhle": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jayden Struble": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Alexandre Carrier": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jakub Dobes": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Sam Montembeault": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "New York Islanders": {
+    "Ondrej Palat": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Bo Horvat": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mathew Barzal": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Emil Heineman": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Calum Ritchie": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jonathan Drouin": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Anders Lee": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jean-Gabriel Pageau": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Simon Holmstrom": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Kyle MacLean": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Casey Cizikas": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Marc Gatcomb": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Matthew Schaefer": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ryan Pulock": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Adam Pelech": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Tony DeAngelo": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Carson Soucy": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Scott Mayfield": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Ilya Sorokin": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "David Rittich": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Carolina Hurricanes": {
+    "Andrei Svechnikov": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Sebastian Aho": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Seth Jarvis": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Taylor Hall": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Logan Stankoven": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jackson Blake": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Nikolaj Ehlers": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jordan Staal": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jordan Martinook": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "William Carrier": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Mark Jankowski": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jesperi Kotkaniemi": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jaccob Slavin": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jalen Chatfield": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "K'Andre Miller": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Sean Walker": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Shayne Gostisbehere": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Alexander Nikishin": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Brandon Bussi": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Frederik Andersen": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Washington Capitals": {
+    "Alex Ovechkin": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Dylan Strome": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Ethen Frank": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Aliaksei Protas": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Pierre-Luc Dubois": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Tom Wilson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Anthony Beauvillier": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Justin Sourdif": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Ryan Leonard": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Brandon Duhaime": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Nic Dowd": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Hendrix Lapierre": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Martin Fehervary": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "John Carlson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jakob Chychrun": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Matt Roy": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Rasmus Sandin": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Trevor van Riemsdyk": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Logan Thompson": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Clay Stevenson": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Dallas Stars": {
+    "Justin Hryckowian": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Wyatt Johnston": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mikko Rantanen": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jason Robertson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Roope Hintz": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Mavrik Bourque": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Sam Steel": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Matt Duchene": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jamie Benn": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Oskar Back": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Radek Faksa": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Adam Erne": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Esa Lindell": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Miro Heiskanen": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Thomas Harley": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Nils Lundkvist": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Kyle Capobianco": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Ilya Lyubushkin": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jake Oettinger": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Casey DeSmith": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Colorado Avalanche": {
+    "Artturi Lehkonen": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Nathan MacKinnon": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Valeri Nichushkin": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Ross Colton": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Brock Nelson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Victor Olofsson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Parker Kelly": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jack Drury": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Joel Kiviranta": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Taylor Makar": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Zakhar Bardakov": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Gavin Brindley": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Devon Toews": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Cale Makar": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Josh Manson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brent Burns": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Samuel Girard": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Sam Malinski": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Mackenzie Blackwood": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Scott Wedgewood": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Boston Bruins": {
+    "Morgan Geekie": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Marat Khusnutdinov": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "David Pastrnak": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Casey Mittelstadt": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Fraser Minten": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Viktor Arvidsson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Tanner Jeannot": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Matthew Poitras": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Mark Kastelic": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Alexander Steeves": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Sean Kuraly": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Michael Eyssimont": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jonathan Aspirot": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Charlie McAvoy": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Hampus Lindholm": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Mason Lohrei": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Nikita Zadorov": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Andrew Peeke": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jeremy Swayman": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Joonas Korpisalo": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Philadelphia Flyers": {
+    "Nikita Grebenkin": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Christian Dvorak": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Travis Konecny": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Denver Barkey": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Trevor Zegras": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Owen Tippett": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Matvei Michkov": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Noah Cates": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Bobby Brink": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Garnet Hathaway": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Sean Couturier": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Carl Grundstrom": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Travis Sanheim": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Rasmus Ristolainen": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Cam York": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jamie Drysdale": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Nick Seeler": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Noah Juulsen": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Dan Vladar": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Samuel Ersson": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Winnipeg Jets": {
+    "Kyle Connor": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mark Scheifele": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Alex Iafallo": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Cole Perfetti": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Adam Lowry": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Gabriel Vilardi": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Nino Niederreiter": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jonathan Toews": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Vladislav Namestnikov": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Cole Koepke": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Morgan Barron": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Gustav Nyquist": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Josh Morrissey": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Dylan DeMelo": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Dylan Samberg": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Elias Salomonsson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Logan Stanley": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Luke Schenn": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Connor Hellebuyck": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Eric Comrie": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "St. Louis Blues": {
+    "Brayden Schenn": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Dalibor Dvorsky": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jimmy Snuggerud": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jake Neighbours": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Pavel Buchnevich": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jordan Kyrou": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Robby Fabbri": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Pius Suter": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Alexey Toropchenko": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Oskar Sundqvist": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Nathan Walker": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Philip Broberg": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Colton Parayko": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Tyler Tucker": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Justin Faulk": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Cam Fowler": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Logan Mailloux": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jordan Binnington": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Joel Hofer": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Los Angeles Kings": {
+    "Corey Perry": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Alex Laferriere": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Adrian Kempe": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Trevor Moore": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Anze Kopitar": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Joel Armia": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Kevin Fiala": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Quinton Byfield": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Andrei Kuzmenko": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jeff Malott": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Samuel Helenius": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Taylor Ward": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Brian Dumoulin": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Drew Doughty": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Joel Edmundson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brandt Clarke": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jacob Moverare": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Cody Ceci": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Anton Forsberg": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Darcy Kuemper": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Vancouver Canucks": {
+    "Evander Kane": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Elias Pettersson": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Drew O'Connor": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jake DeBrusk": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "David Kampf": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Linus Karlsson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Liam Ohgren": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Teddy Blueger": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Conor Garland": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Max Sasson": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Aatu Raty": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jonathan Lekkerimaki": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Elias Nils Pettersson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Filip Hronek": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Marcus Pettersson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Tom Willander": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Pierre-Olivier Joseph": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Tyler Myers": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Nikita Tolopilo": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Kevin Lankinen": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Minnesota Wild": {
+    "Kirill Kaprizov": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Ryan Hartman": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mats Zuccarello": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Marcus Johansson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Joel Eriksson Ek": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Matt Boldy": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Yakov Trenin": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Danila Yurov": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Vladimir Tarasenko": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Vinnie Hinostroza": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Nico Sturm": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Tyler Pitlick": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Quinn Hughes": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brock Faber": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jacob Middleton": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jared Spurgeon": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Daemon Hunt": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Zach Bogosian": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Filip Gustavsson": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Jesper Wallstedt": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "New Jersey Devils": {
+    "Evgenii Dadonov": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Nico Hischier": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jesper Bratt": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Timo Meier": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Dawson Mercer": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Connor Brown": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Arseny Gritsyuk": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Cody Glass": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Lenni Hameenaho": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Paul Cotter": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Nick Bjugstad": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Maxim Tsyplakov": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jonas Siegenthaler": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Johnathan Kovacevic": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brett Pesce": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Dougie Hamilton": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brenden Dillon": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Simon Nemec": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jake Allen": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Jacob Markstrom": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "New York Rangers": {
+    "J.T. Miller": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mika Zibanejad": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Gabriel Perreault": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Will Cuylle": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Vincent Trocheck": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Alexis Lafrenière": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jonny Brodzinski": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Noah Laba": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Taylor Raddysh": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Anton Blidh": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Sam Carrick": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Matt Rempe": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Vladislav Gavrikov": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Braden Schneider": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Matthew Robertson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Will Borgen": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Urho Vaakanainen": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Vincent Iorio": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jonathan Quick": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Spencer Martin": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Toronto Maple Leafs": {
+    "Bobby McMann": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Auston Matthews": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Max Domi": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Matias Maccelli": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "John Tavares": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "William Nylander": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Matthew Knies": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Nicolas Roy": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Nicholas Robertson": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Steven Lorentz": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Scott Laughton": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Calle Jarnkrok": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jake McCabe": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brandon Carlo": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Oliver Ekman-Larsson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Troy Stecher": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Simon Benoit": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Philippe Myers": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Anthony Stolarz": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Joseph Woll": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Detroit Red Wings": {
+    "Marco Kasper": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Dylan Larkin": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Lucas Raymond": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Alex DeBrincat": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Andrew Copp": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Patrick Kane": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Emmitt Finnie": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "J.T. Compher": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Mason Appleton": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Elmer Soderblom": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Michael Rasmussen": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "James van Riemsdyk": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jacob Bernard-Docker": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Moritz Seider": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ben Chiarot": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Axel Sandin-Pellikka": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Albert Johansson": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Travis Hamonic": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "John Gibson": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Cam Talbot": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Ottawa Senators": {
+    "Drake Batherson": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Tim Stützle": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Claude Giroux": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Brady Tkachuk": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Dylan Cozens": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Ridly Greig": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Nick Cousins": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Shane Pinto": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Michael Amadio": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Stephen Halliday": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Lars Eller": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Fabian Zetterlund": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jake Sanderson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Artem Zub": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Thomas Chabot": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Nick Jensen": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Tyler Kleven": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jordan Spence": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "James Reimer": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Hunter Shepard": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Buffalo Sabres": {
+    "Josh Doan": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Tage Thompson": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Alex Tuch": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jason Zucker": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Ryan McLeod": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jack Quinn": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Isak Rosen": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Noah Ostlund": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Konsta Helenius": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Peyton Krebs": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Tyson Kozak": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Beck Malenstyn": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Mattias Samuelsson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Rasmus Dahlin": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Bowen Byram": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Owen Power": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jacob Bryson": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Michael Kesselring": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Alex Lyon": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Colten Ellis": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Chicago Blackhawks": {
+    "Frank Nazar": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Connor Bedard": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Tyler Bertuzzi": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Teuvo Teravainen": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Oliver Moore": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Andre Burakovsky": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Ryan Donato": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jason Dickinson": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Ilya Mikheyev": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Colton Dach": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Nick Foligno": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Landon Slaggert": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Alex Vlasic": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Louis Crevier": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Wyatt Kaiser": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Sam Rinzel": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Matt Grzelcyk": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Connor Murphy": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Spencer Knight": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Arvid Soderblom": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Nashville Predators": {
+    "Luke Evangelista": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Ryan O'Reilly": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Steven Stamkos": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Filip Forsberg": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Erik Haula": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jonathan Marchessault": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Cole Smith": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Michael McCarron": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Michael Bunting": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Reid Schaefer": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Tyson Jost": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Ozzy Wiesblatt": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Justin Barron": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Roman Josi": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Adam Wilsby": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brady Skjei": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Nicolas Hague": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Nick Perbix": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Juuse Saros": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Justus Annunen": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Calgary Flames": {
+    "Yegor Sharangovich": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mikael Backlund": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Matt Coronato": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Connor Zary": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Nazem Kadri": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Joel Farabee": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jonathan Huberdeau": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Morgan Frost": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Matvei Gridin": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Ryan Lomberg": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Martin Pospisil": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Adam Klapka": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Yan Kuznetsov": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "MacKenzie Weegar": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Kevin Bahl": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Zach Whitecloud": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Joel Hanley": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Zayne Parekh": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Dustin Wolf": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Devin Cooley": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Columbus Blue Jackets": {
+    "Mason Marchment": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Adam Fantilli": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Danton Heinen": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Dmitri Voronkov": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Sean Monahan": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Kent Johnson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Cole Sillinger": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Charlie Coyle": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Mathieu Olivier": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Isac Lundestrom": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Boone Jenner": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Miles Wood": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Zach Werenski": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Damon Severson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ivan Provorov": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Denton Mateychuk": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Dante Fabbro": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Erik Gudbranson": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Jet Greaves": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Elvis Merzlikins": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Anaheim Ducks": {
+    "Alex Killorn": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Mikael Granlund": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Beckett Sennecke": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Chris Kreider": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Ryan Poehling": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Troy Terry": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Jeffrey Viel": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Mason McTavish": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Cutter Gauthier": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Ross Johnston": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Tim Washe": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jansen Harkins": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jackson Lacombe": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jacob Trouba": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Olen Zellweger": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Radko Gudas": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Pavel Mintyukov": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Ian Moore": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Lukas Dostal": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Ville Husso": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Utah Hockey Club": {
+    "Clayton Keller": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Nick Schmaltz": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Lawson Crouse": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "JJ Peterka": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Barrett Hayton": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Kailer Yamamoto": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Michael Carcone": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jack McBain": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Dylan Guenther": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Brandon Tanev": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Kevin Stenlund": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Liam O'Brien": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Mikhail Sergachev": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Sean Durzi": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Nate Schmidt": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "John Marino": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ian Cole": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Nick DeSimone": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Karel Vejmelka": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Vitek Vanecek": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Seattle Kraken": {
+    "Jared McCann": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Matty Beniers": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Jordan Eberle": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Eeli Tolvanen": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Chandler Stephenson": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Frederick Gaudreau": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Ryan Winterton": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Shane Wright": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Kaapo Kakko": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Tye Kartye": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Oscar Fisker-Molgaard": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Jacob Melanson": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Vince Dunn": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Adam Larsson": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jamie Oleksiak": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Brandon Montour": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Ryan Lindgren": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Ryker Evans": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Joey Daccord": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Philipp Grubauer": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  },
+  "Edmonton Oilers": {
+    "Ryan Nugent-Hopkins": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Connor McDavid": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Zach Hyman": {
+      "line": "1L",
+      "role": "top6"
+    },
+    "Vasily Podkolzin": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Leon Draisaitl": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Kasperi Kapanen": {
+      "line": "2L",
+      "role": "top6"
+    },
+    "Andrew Mangiapane": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Jack Roslovic": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Matthew Savoie": {
+      "line": "3L",
+      "role": "bottom6"
+    },
+    "Mattias Janmark": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Josh Samanski": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Curtis Lazar": {
+      "line": "4L",
+      "role": "bottom6"
+    },
+    "Mattias Ekholm": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Evan Bouchard": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Darnell Nurse": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Jake Walman": {
+      "line": "top4D",
+      "role": "top4"
+    },
+    "Spencer Stastney": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Ty Emberson": {
+      "line": "bottomD",
+      "role": "bottom2"
+    },
+    "Tristan Jarry": {
+      "line": "starterG",
+      "role": "starter"
+    },
+    "Connor Ingram": {
+      "line": "backupG",
+      "role": "backup"
+    }
+  }
+}

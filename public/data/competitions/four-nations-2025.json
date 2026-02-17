@@ -1,0 +1,31 @@
+{
+  "competitionId": "four-nations-2025",
+  "competitionName": "4 Nations Face-Off 2025",
+  "year": 2025,
+  "teams": [
+    {
+      "teamId": "CAN",
+      "totalSalary": 158878000,
+      "totalScore": 1991,
+      "playerCount": 23
+    },
+    {
+      "teamId": "USA",
+      "totalSalary": 170142000,
+      "totalScore": 2036,
+      "playerCount": 23
+    },
+    {
+      "teamId": "SWE",
+      "totalSalary": 145919167,
+      "totalScore": 1996,
+      "playerCount": 23
+    },
+    {
+      "teamId": "FIN",
+      "totalSalary": 111300000,
+      "totalScore": 1883,
+      "playerCount": 23
+    }
+  ]
+}

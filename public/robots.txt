@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ttu.github.io/hockey-event-ranking/sitemap.xml

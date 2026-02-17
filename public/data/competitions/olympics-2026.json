@@ -1,0 +1,79 @@
+{
+  "competitionId": "olympics-2026",
+  "competitionName": "Winter Olympics 2026",
+  "year": 2026,
+  "teams": [
+    {
+      "teamId": "CAN",
+      "totalSalary": 158894667,
+      "totalScore": 2259,
+      "playerCount": 25
+    },
+    {
+      "teamId": "USA",
+      "totalSalary": 176443190,
+      "totalScore": 2290,
+      "playerCount": 25
+    },
+    {
+      "teamId": "SWE",
+      "totalSalary": 151933333,
+      "totalScore": 2193,
+      "playerCount": 25
+    },
+    {
+      "teamId": "FIN",
+      "totalSalary": 100368333,
+      "totalScore": 2118,
+      "playerCount": 25
+    },
+    {
+      "teamId": "CZE",
+      "totalSalary": 64155000,
+      "totalScore": 1737,
+      "playerCount": 25
+    },
+    {
+      "teamId": "DEN",
+      "totalSalary": 28447500,
+      "totalScore": 1516,
+      "playerCount": 25
+    },
+    {
+      "teamId": "GER",
+      "totalSalary": 40525000,
+      "totalScore": 1568,
+      "playerCount": 25
+    },
+    {
+      "teamId": "SUI",
+      "totalSalary": 56384000,
+      "totalScore": 1705,
+      "playerCount": 25
+    },
+    {
+      "teamId": "SVK",
+      "totalSalary": 34560000,
+      "totalScore": 1575,
+      "playerCount": 25
+    },
+    {
+      "teamId": "LAT",
+      "totalSalary": 25720000,
+      "totalScore": 1487,
+      "playerCount": 25
+    },
+    {
+      "teamId": "FRA",
+      "totalSalary": 7467500,
+      "totalScore": 1382,
+      "playerCount": 25
+    },
+    {
+      "teamId": "ITA",
+      "totalSalary": 4330000,
+      "totalScore": 1342,
+      "playerCount": 25
+    }
+  ]
+}
