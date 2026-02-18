@@ -45,8 +45,11 @@ Roster data is AI-generated using web scraping and scripts.
 
 - **Structure:** `data/competitions/{id}.json` (summary) + `data/competitions/{id}/{teamId}.json` (per team) + optional `overrides.json` (manual corrections; always applied at load time, never overwritten by scripts)
 - **Validate:** `npm run update-data`
-- **Fill nationalLine:** `npx tsx scripts/update-data.ts --fill-national`
+- **Fill nationalLine:** `npx tsx scripts/update-data.ts --fill-national` (uses Daily Faceoff data when `scripts/data/{id}/national-lines.json` exists)
+- **Fetch national team lines:** `npx tsx scripts/fetch-national-lines.ts [--competition=<id>]` fetches national team line combinations from [Daily Faceoff](https://www.dailyfaceoff.com/teams/team-switzerland/line-combinations) into `scripts/data/{id}/national-lines.json`. Then run `--fill-national` to apply.
 - **Fill summary (team metrics):** `npx tsx scripts/update-data.ts --fill-summary`
+- **Validate headshots:** `npx tsx scripts/validate-headshots.ts [competition-id]` checks all headshot URLs (HTTP reachable, no duplicate URLs). Use `--fix` to remove invalid/duplicate headshotUrl, then run fetch-headshots to refill.
+- **Validate NHL_IDS:** `npx tsx scripts/validate-nhl-ids.ts` checks that each ID in `scripts/fetch-headshots.ts` resolves to the expected player (via api-web.nhle.com). Fix reported mismatches by updating IDs from roster API or removing entries so roster lookup is used.
 - **Fetch headshots:** `npx tsx scripts/fetch-headshots.ts [competitionId]`
 - **Event rosters with NHL lines:** `npx tsx scripts/fetch-nhl-lines.ts [--competition=<id>]` fetches NHL lineup data from DailyFaceoff into `scripts/data/{id}/nhl-club-lines.json` (event-specific; Olympics and World Championship use separate snapshots). Then run the event’s generate script (e.g. `npx tsx scripts/generate-olympics-2026.ts`).
 

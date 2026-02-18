@@ -64,8 +64,8 @@
       "salaryEstimated": false,
       "line": "1L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8480800.png",
-      "nationalLine": "L2"
+      "nationalLine": "L2",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8481559.png"
     },
     {
       "playerId": "connor",
@@ -142,8 +142,8 @@
       "salaryEstimated": false,
       "line": "2L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477946.png",
-      "nationalLine": "L4"
+      "nationalLine": "L4",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477946.png"
     },
     {
       "playerId": "nelson",
@@ -155,8 +155,8 @@
       "salaryEstimated": true,
       "line": "3L",
       "role": "bottom6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477426.png",
-      "nationalLine": "L4"
+      "nationalLine": "L4",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/COL/8475754.png"
     },
     {
       "playerId": "boldy",
@@ -168,8 +168,8 @@
       "salaryEstimated": true,
       "line": "2L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8481559.png",
-      "nationalLine": "L4"
+      "nationalLine": "L4",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8481557.png"
     },
     {
       "playerId": "hughes-quinn",
@@ -181,8 +181,8 @@
       "salaryEstimated": false,
       "line": "top4D",
       "role": "top4",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8480800.png",
-      "nationalLine": "D1"
+      "nationalLine": "D1",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/MIN/8480800.png"
     },
     {
       "playerId": "fox",

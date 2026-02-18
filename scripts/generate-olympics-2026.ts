@@ -565,21 +565,8 @@ function buildRoster(
       nationalLine,
     });
   }
-  const natOrder: NationalPosition[] = [
-    'L1',
-    'L2',
-    'L3',
-    'L4',
-    'D1',
-    'D2',
-    'G1',
-    'G2',
-  ];
-  players.sort((a, b) => {
-    const na = (a.nationalLine as NationalPosition) ?? 'L4';
-    const nb = (b.nationalLine as NationalPosition) ?? 'L4';
-    return natOrder.indexOf(na) - natOrder.indexOf(nb);
-  });
+  // Always order by playerId so roster JSON diffs show real changes (see AGENTS.md)
+  players.sort((a, b) => String(a.playerId).localeCompare(String(b.playerId)));
   return players;
 }
 

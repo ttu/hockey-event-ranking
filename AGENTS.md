@@ -37,6 +37,7 @@ Guide for AI-assisted development on Hockey Event Ranking. All relevant info bel
 ## Conventions
 
 - **Naming:** Components in `src/components/`, logic in `src/lib/`, data in `src/data/`, `public/data/`.
+- **Player data order:** Roster JSON (`public/data/competitions/.../...json`) always orders the `players` array by `playerId` (localeCompare). This keeps diffs meaningful when updating data.
 - **Tests:** Unit `[function].test.ts`, component `[Component].test.tsx`.
 - **Commits:** Conventional (`feat`, `fix`, `docs`, etc.). Never `--no-verify`.
 

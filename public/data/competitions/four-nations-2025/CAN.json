@@ -220,8 +220,8 @@
       "salaryEstimated": true,
       "line": "top4D",
       "role": "top4",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477960.png",
-      "nationalLine": "D1"
+      "nationalLine": "D1",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/VGK/8477447.png"
     },
     {
       "playerId": "doughty",
@@ -246,8 +246,8 @@
       "salaryEstimated": true,
       "line": "bottomD",
       "role": "bottom2",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/latest/8476894.png",
-      "nationalLine": "D2"
+      "nationalLine": "D2",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/latest/8476894.png"
     },
     {
       "playerId": "sanheim",
@@ -259,7 +259,6 @@
       "salaryEstimated": true,
       "line": "bottomD",
       "role": "bottom2",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477493.png",
       "nationalLine": "D2"
     },
     {

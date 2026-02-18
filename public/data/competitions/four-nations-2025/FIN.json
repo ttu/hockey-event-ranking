@@ -12,8 +12,8 @@
       "salaryEstimated": false,
       "line": "1L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/DET/8477946.png",
-      "nationalLine": "L1"
+      "nationalLine": "L1",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8477493.png"
     },
     {
       "playerId": "rantanen",
@@ -25,7 +25,7 @@
       "salaryEstimated": false,
       "line": "1L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8477969.png",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8478420.png",
       "nationalLine": "L1"
     },
     {
@@ -64,8 +64,8 @@
       "salaryEstimated": true,
       "line": "2L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/TBL/8477426.png",
-      "nationalLine": "L2"
+      "nationalLine": "L2",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/COL/8477476.png"
     },
     {
       "playerId": "teravainen",
@@ -77,8 +77,8 @@
       "salaryEstimated": true,
       "line": "2L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477960.png",
-      "nationalLine": "L2"
+      "nationalLine": "L2",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477960.png"
     },
     {
       "playerId": "granlund",
@@ -90,8 +90,8 @@
       "salaryEstimated": true,
       "line": "2L",
       "role": "top6",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8476871.png",
-      "nationalLine": "L3"
+      "nationalLine": "L3",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475798.png"
     },
     {
       "playerId": "haula",
@@ -193,8 +193,8 @@
       "salaryEstimated": true,
       "line": "top4D",
       "role": "top4",
-      "headshotUrl": "https://assets.nhle.com/mugs/nhl/latest/8476894.png",
-      "nationalLine": "D1"
+      "nationalLine": "D1",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/DAL/8476902.png"
     },
     {
       "playerId": "valimaki",

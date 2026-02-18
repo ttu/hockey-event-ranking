@@ -7,7 +7,7 @@
  * Usage:
  *   npx tsx scripts/update-data.ts                    # Validate all rosters
  *   npx tsx scripts/update-data.ts --write-sample      # Write sample olympics-2026
- *   npx tsx scripts/update-data.ts --fill-national     # Add nationalLine to all players
+ *   npx tsx scripts/update-data.ts --fill-national     # Add nationalLine to all players (uses Daily Faceoff if scripts/data/{id}/national-lines.json exists)
  *   npx tsx scripts/update-data.ts --fill-summary       # Compute and add team metrics to competition summary
  */
 
@@ -18,6 +18,7 @@ import type { TeamRoster } from '../src/types';
 
 const DATA_DIR = path.join(process.cwd(), 'public', 'data');
 const COMPETITIONS_DIR = path.join(DATA_DIR, 'competitions');
+const SCRIPTS_DATA_DIR = path.join(process.cwd(), 'scripts', 'data');
 
 interface Player {
   playerId: string;
@@ -53,6 +54,19 @@ function inferNationalPosition(
   if (fIdx < 6) return 'L2';
   if (fIdx < 9) return 'L3';
   return 'L4';
+}
+
+/** Load Daily Faceoff national lines for a competition if present. */
+function loadNationalLines(
+  compId: string,
+): Record<string, Record<string, NationalPosition>> | null {
+  const p = path.join(SCRIPTS_DATA_DIR, compId, 'national-lines.json');
+  if (!fs.existsSync(p)) return null;
+  try {
+    return JSON.parse(fs.readFileSync(p, 'utf-8'));
+  } catch {
+    return null;
+  }
 }
 
 const SAMPLE_SUMMARY = {
@@ -163,16 +177,36 @@ function validateCompetition(compId: string): boolean {
   return ok;
 }
 
-function fillNationalLineTeam(filePath: string, players: Player[]): number {
+function fillNationalLineTeam(
+  filePath: string,
+  players: Player[],
+  teamId: string,
+  dfoLines: Record<string, NationalPosition> | null,
+): number {
   let updated = 0;
   for (let i = 0; i < players.length; i++) {
-    const nationalPos = inferNationalPosition(players, i);
-    if (players[i].nationalLine !== nationalPos) {
-      players[i].nationalLine = nationalPos;
+    const p = players[i];
+    const name = p.playerName as string;
+    const fromDfo = dfoLines?.[name];
+    // When using DFO data, roster-only players (e.g. injured) get end-of-group so they don't overwrite real lines
+    const nationalPos: NationalPosition =
+      fromDfo ??
+      (dfoLines
+        ? p.position === 'G'
+          ? 'G2'
+          : p.position === 'D'
+            ? 'D2'
+            : 'L4'
+        : inferNationalPosition(players, i));
+    if (p.nationalLine !== nationalPos) {
+      p.nationalLine = nationalPos;
       updated++;
     }
   }
-  if (updated > 0) {
+  // Always order by playerId so roster JSON diffs show real changes (see AGENTS.md)
+  players.sort((a, b) => String(a.playerId).localeCompare(String(b.playerId)));
+  const shouldWrite = updated > 0 || dfoLines !== null;
+  if (shouldWrite) {
     const data = JSON.parse(fs.readFileSync(filePath, 'utf-8')) as Record<
       string,
       unknown
@@ -219,13 +253,15 @@ function fillNationalLine(compId: string): number {
   const teamIds = Array.isArray(summary.teams)
     ? summary.teams.map((t) => t.teamId)
     : getTeamIdsFromRosterDir(compId);
+  const dfoByTeam = loadNationalLines(compId);
   let total = 0;
   for (const teamId of teamIds) {
     const teamPath = path.join(compDir, `${teamId}.json`);
     const data = JSON.parse(fs.readFileSync(teamPath, 'utf-8')) as {
       players: Player[];
     };
-    total += fillNationalLineTeam(teamPath, data.players);
+    const dfoLines = dfoByTeam?.[teamId] ?? null;
+    total += fillNationalLineTeam(teamPath, data.players, teamId, dfoLines);
   }
   return total;
 }
