@@ -9,6 +9,9 @@
  *   npx tsx scripts/update-data.ts --write-sample      # Write sample olympics-2026
  *   npx tsx scripts/update-data.ts --fill-national     # Add nationalLine to all players (uses Daily Faceoff if scripts/data/{id}/national-lines.json exists)
  *   npx tsx scripts/update-data.ts --fill-summary       # Compute and add team metrics to competition summary
+ *
+ * Scope to a single competition (avoid touching historical data):
+ *   npx tsx scripts/update-data.ts --fill-summary --competition world-championship-2026
  */
 
 import * as fs from 'fs';
@@ -270,6 +273,11 @@ function main(): void {
   const writeSample = process.argv.includes('--write-sample');
   const fillNational = process.argv.includes('--fill-national');
   const fillSummaryFlag = process.argv.includes('--fill-summary');
+  const compIdx = process.argv.indexOf('--competition');
+  const onlyCompetition: string | null =
+    compIdx >= 0 && process.argv[compIdx + 1]
+      ? process.argv[compIdx + 1]
+      : null;
   ensureDataDir();
 
   if (writeSample) {
@@ -302,6 +310,7 @@ function main(): void {
     .filter((f) => f.endsWith('.json') && !f.startsWith('.'));
   for (const f of summaries) {
     const compId = f.replace(/\.json$/, '');
+    if (onlyCompetition && compId !== onlyCompetition) continue;
     if (fillSummaryFlag) {
       fillSummary(compId);
     } else if (fillNational) {

@@ -1,7 +1,11 @@
 import type { Competition, CompetitionSummary, TeamRoster } from '../types';
 
 /** Available competition IDs (files: data/competitions/{id}.json) */
-export const COMPETITION_IDS = ['four-nations-2025', 'olympics-2026'] as const;
+export const COMPETITION_IDS = [
+  'four-nations-2025',
+  'olympics-2026',
+  'world-championship-2026',
+] as const;
 export type CompetitionId = (typeof COMPETITION_IDS)[number];
 
 /** Build absolute URL for data files (works in dev and with base path) */

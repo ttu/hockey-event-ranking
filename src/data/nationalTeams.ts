@@ -19,6 +19,9 @@ export const NATIONAL_TEAMS: NationalTeam[] = [
   { id: 'ITA', name: 'Italy', abbreviation: 'ITA' },
   { id: 'KAZ', name: 'Kazakhstan', abbreviation: 'KAZ' },
   { id: 'BLR', name: 'Belarus', abbreviation: 'BLR' },
+  { id: 'HUN', name: 'Hungary', abbreviation: 'HUN' },
+  { id: 'GBR', name: 'Great Britain', abbreviation: 'GBR' },
+  { id: 'SVN', name: 'Slovenia', abbreviation: 'SVN' },
 ];
 
 /** ISO 3166-1 alpha-2 codes for flag CDN (flagcdn.com) */
@@ -40,6 +43,9 @@ const TEAM_TO_ALPHA2: Record<string, string> = {
   ITA: 'it',
   KAZ: 'kz',
   BLR: 'by',
+  HUN: 'hu',
+  GBR: 'gb',
+  SVN: 'si',
 };
 
 /** Accent colors for roster item left stripe (NHL-style) */
@@ -61,6 +67,9 @@ const TEAM_ACCENT_COLORS: Record<string, string> = {
   ITA: '#009246',
   KAZ: '#00afca',
   BLR: '#ae0a0a',
+  HUN: '#cd2a3e',
+  GBR: '#012169',
+  SVN: '#005ce6',
 };
 
 export function getTeamFlagUrl(teamId: string, size: 80 | 160 = 80): string {

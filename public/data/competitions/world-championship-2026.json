@@ -1,0 +1,103 @@
+{
+  "competitionId": "world-championship-2026",
+  "competitionName": "2026 IIHF World Championship",
+  "year": 2026,
+  "teams": [
+    {
+      "teamId": "CAN",
+      "totalSalary": 142450000,
+      "totalScore": 1872,
+      "playerCount": 23
+    },
+    {
+      "teamId": "USA",
+      "totalSalary": 137025000,
+      "totalScore": 1910,
+      "playerCount": 26
+    },
+    {
+      "teamId": "SWE",
+      "totalSalary": 63885000,
+      "totalScore": 1525,
+      "playerCount": 25
+    },
+    {
+      "teamId": "FIN",
+      "totalSalary": 65432500,
+      "totalScore": 1847,
+      "playerCount": 32
+    },
+    {
+      "teamId": "CZE",
+      "totalSalary": 31305000,
+      "totalScore": 1282,
+      "playerCount": 25
+    },
+    {
+      "teamId": "SUI",
+      "totalSalary": 45349000,
+      "totalScore": 1588,
+      "playerCount": 30
+    },
+    {
+      "teamId": "GER",
+      "totalSalary": 17805000,
+      "totalScore": 1356,
+      "playerCount": 28
+    },
+    {
+      "teamId": "SVK",
+      "totalSalary": 0,
+      "totalScore": 0,
+      "playerCount": 0
+    },
+    {
+      "teamId": "LAT",
+      "totalSalary": 5705000,
+      "totalScore": 1250,
+      "playerCount": 29
+    },
+    {
+      "teamId": "DEN",
+      "totalSalary": 3925000,
+      "totalScore": 1082,
+      "playerCount": 25
+    },
+    {
+      "teamId": "NOR",
+      "totalSalary": 4625000,
+      "totalScore": 1136,
+      "playerCount": 26
+    },
+    {
+      "teamId": "AUT",
+      "totalSalary": 3565000,
+      "totalScore": 1086,
+      "playerCount": 25
+    },
+    {
+      "teamId": "HUN",
+      "totalSalary": 3820000,
+      "totalScore": 1184,
+      "playerCount": 29
+    },
+    {
+      "teamId": "GBR",
+      "totalSalary": 2645000,
+      "totalScore": 1085,
+      "playerCount": 27
+    },
+    {
+      "teamId": "SVN",
+      "totalSalary": 3212500,
+      "totalScore": 1047,
+      "playerCount": 25
+    },
+    {
+      "teamId": "ITA",
+      "totalSalary": 0,
+      "totalScore": 0,
+      "playerCount": 0
+    }
+  ]
+}

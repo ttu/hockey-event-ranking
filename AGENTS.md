@@ -38,6 +38,7 @@ Guide for AI-assisted development on Hockey Event Ranking. All relevant info bel
 
 - **Naming:** Components in `src/components/`, logic in `src/lib/`, data in `src/data/`, `public/data/`.
 - **Player data order:** Roster JSON (`public/data/competitions/.../...json`) always orders the `players` array by `playerId` (localeCompare). This keeps diffs meaningful when updating data.
+- **Historical data is frozen:** Only modify data for the _current_ competition. Past competitions (`four-nations-2025`, `olympics-2026`, prior years' `world-championship-*`, etc.) are preserved as-is for historical comparison — never edit them, even for cosmetic changes. After running scripts that may touch all competitions (e.g. `update-data.ts --fill-summary`), check `git status` and revert any unintended changes to historical files.
 - **Tests:** Unit `[function].test.ts`, component `[Component].test.tsx`.
 - **Commits:** Conventional (`feat`, `fix`, `docs`, etc.). Never `--no-verify`.
 
