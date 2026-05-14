@@ -19,6 +19,7 @@ import {
   type CompetitionId,
 } from './lib/loadData';
 import { getTeamMetrics, getPlayersWithScores } from './lib/teamMetrics';
+import { getLeague } from './data/leagues';
 import { NATIONAL_TEAMS } from './data/nationalTeams';
 import { getTeamFlagUrl } from './data/nationalTeams';
 import { APP_LOGO_URL } from './data/teamAssets';
@@ -199,9 +200,33 @@ function AppContent() {
     ? getPlayersWithScores(selectedRoster.players)
     : [];
 
+  const leagueBreakdown = (() => {
+    if (!selectedRoster) return [];
+    const counts = new Map<string, number>();
+    for (const p of selectedRoster.players) {
+      counts.set(p.leagueId, (counts.get(p.leagueId) ?? 0) + 1);
+    }
+    return Array.from(counts, ([leagueId, count]) => ({
+      leagueId,
+      count,
+    })).sort((a, b) => b.count - a.count);
+  })();
+
   const selectedTeamData = selectedTeam
     ? NATIONAL_TEAMS.find((t) => t.id === selectedTeam)
     : undefined;
+
+  useEffect(() => {
+    const competitionName = summary?.competitionName;
+    const teamName = selectedTeamData?.name ?? selectedTeam;
+    if (selectedTeam && teamName && competitionName) {
+      document.title = `${teamName} — ${competitionName} | Hockey Event Ranking`;
+    } else if (competitionName) {
+      document.title = `${competitionName} | Hockey Event Ranking`;
+    } else {
+      document.title = 'Hockey Event Ranking';
+    }
+  }, [selectedTeam, selectedTeamData, summary?.competitionName]);
 
   return (
     <main className="app">
@@ -300,6 +325,11 @@ function AppContent() {
               <h2 className="team-summary-card__title">
                 {selectedTeamData?.name ?? selectedTeam}
               </h2>
+              {summary?.competitionName && (
+                <p className="team-summary-card__competition">
+                  {summary.competitionName}
+                </p>
+              )}
               <dl className="team-summary-card__metrics">
                 <dt>Total value</dt>
                 <dd>{formatSalary(selectedMetrics.totalSalary)}</dd>
@@ -309,6 +339,24 @@ function AppContent() {
                 <dd>{selectedMetrics.averageScore.toFixed(1)}</dd>
                 <dt>Players</dt>
                 <dd>{selectedMetrics.playerCount}</dd>
+                <dt className="team-summary-card__leagues-label">Leagues</dt>
+                <dd className="team-summary-card__leagues-value">
+                  <ul className="team-summary-card__leagues">
+                    {leagueBreakdown.map((l) => (
+                      <li
+                        key={l.leagueId}
+                        className="team-summary-card__league"
+                      >
+                        <span className="team-summary-card__league-name">
+                          {getLeague(l.leagueId)?.name ?? l.leagueId}
+                        </span>
+                        <span className="team-summary-card__league-count">
+                          {l.count}/{selectedMetrics.playerCount}
+                        </span>
+                      </li>
+                    ))}
+                  </ul>
+                </dd>
               </dl>
             </article>
           </section>

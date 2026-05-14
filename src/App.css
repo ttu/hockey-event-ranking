@@ -170,9 +170,16 @@
 }
 
 .team-summary-card__title {
-  margin: 0 0 1rem;
+  margin: 0 0 0.25rem;
   font-size: 1.25rem;
   font-weight: 700;
+}
+
+.team-summary-card__competition {
+  margin: 0 0 1rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+  color: var(--color-text-muted, #6b7280);
 }
 
 .team-summary-card__metrics {
@@ -193,6 +200,46 @@
   font-weight: 500;
   text-align: right;
   min-width: 3.5rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.team-summary-card__leagues-label {
+  grid-column: 1 / -1;
+  margin-top: 0.25rem;
+}
+
+.team-summary-card__leagues-value {
+  grid-column: 1 / -1;
+  text-align: left !important;
+}
+
+.team-summary-card__leagues {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.375rem;
+}
+
+.team-summary-card__league {
+  display: inline-flex;
+  align-items: baseline;
+  gap: 0.4rem;
+  padding: 0.2rem 0.55rem;
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 0.8125rem;
+  line-height: 1.2;
+}
+
+.team-summary-card__league-name {
+  font-weight: 600;
+}
+
+.team-summary-card__league-count {
+  color: #aaa;
   font-variant-numeric: tabular-nums;
 }
 
