@@ -5,27 +5,27 @@
   "teams": [
     {
       "teamId": "CAN",
-      "totalSalary": 142450000,
-      "totalScore": 1872,
-      "playerCount": 23
+      "totalSalary": 155700000,
+      "totalScore": 2050,
+      "playerCount": 25
     },
     {
       "teamId": "USA",
-      "totalSalary": 137025000,
-      "totalScore": 1910,
-      "playerCount": 26
+      "totalSalary": 136750000,
+      "totalScore": 1874,
+      "playerCount": 25
     },
     {
       "teamId": "SWE",
-      "totalSalary": 63885000,
-      "totalScore": 1525,
+      "totalSalary": 76705000,
+      "totalScore": 1595,
       "playerCount": 25
     },
     {
       "teamId": "FIN",
-      "totalSalary": 65432500,
-      "totalScore": 1847,
-      "playerCount": 32
+      "totalSalary": 75330000,
+      "totalScore": 1758,
+      "playerCount": 27
     },
     {
       "teamId": "CZE",
@@ -35,57 +35,57 @@
     },
     {
       "teamId": "SUI",
-      "totalSalary": 45349000,
-      "totalScore": 1588,
-      "playerCount": 30
-    },
-    {
-      "teamId": "GER",
-      "totalSalary": 17805000,
-      "totalScore": 1356,
-      "playerCount": 28
-    },
-    {
-      "teamId": "SVK",
-      "totalSalary": 0,
-      "totalScore": 0,
-      "playerCount": 0
-    },
-    {
-      "teamId": "LAT",
-      "totalSalary": 5705000,
-      "totalScore": 1250,
-      "playerCount": 29
-    },
-    {
-      "teamId": "DEN",
-      "totalSalary": 3925000,
-      "totalScore": 1082,
+      "totalSalary": 43849000,
+      "totalScore": 1390,
       "playerCount": 25
     },
     {
-      "teamId": "NOR",
-      "totalSalary": 4625000,
-      "totalScore": 1136,
+      "teamId": "GER",
+      "totalSalary": 23695000,
+      "totalScore": 1377,
       "playerCount": 26
     },
     {
+      "teamId": "SVK",
+      "totalSalary": 17875000,
+      "totalScore": 1368,
+      "playerCount": 25
+    },
+    {
+      "teamId": "LAT",
+      "totalSalary": 7082500,
+      "totalScore": 1008,
+      "playerCount": 22
+    },
+    {
+      "teamId": "DEN",
+      "totalSalary": 10490000,
+      "totalScore": 1177,
+      "playerCount": 26
+    },
+    {
+      "teamId": "NOR",
+      "totalSalary": 11190000,
+      "totalScore": 1225,
+      "playerCount": 27
+    },
+    {
       "teamId": "AUT",
-      "totalSalary": 3565000,
-      "totalScore": 1086,
+      "totalSalary": 3730000,
+      "totalScore": 1117,
       "playerCount": 25
     },
     {
       "teamId": "HUN",
-      "totalSalary": 3820000,
-      "totalScore": 1184,
-      "playerCount": 29
+      "totalSalary": 3405000,
+      "totalScore": 1063,
+      "playerCount": 26
     },
     {
       "teamId": "GBR",
-      "totalSalary": 2645000,
-      "totalScore": 1085,
-      "playerCount": 27
+      "totalSalary": 2285000,
+      "totalScore": 1018,
+      "playerCount": 25
     },
     {
       "teamId": "SVN",
@@ -95,9 +95,9 @@
     },
     {
       "teamId": "ITA",
-      "totalSalary": 0,
-      "totalScore": 0,
-      "playerCount": 0
+      "totalSalary": 4175000,
+      "totalScore": 1295,
+      "playerCount": 25
     }
   ]
 }

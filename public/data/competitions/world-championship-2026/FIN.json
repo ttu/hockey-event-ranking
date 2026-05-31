@@ -16,18 +16,6 @@
       "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/VAN/8482691.png"
     },
     {
-      "playerId": "aku-raty",
-      "playerName": "Aku Räty",
-      "position": "C",
-      "leagueId": "LIIGA",
-      "club": "Oulun Kärpät",
-      "salaryUsd": 212500,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
-    },
-    {
       "playerId": "aleksander-barkov",
       "playerName": "Aleksander Barkov",
       "position": "C",
@@ -66,18 +54,6 @@
       "nationalLine": "L4"
     },
     {
-      "playerId": "eetu-pakkila",
-      "playerName": "Eetu Päkkilä",
-      "position": "C",
-      "leagueId": "LIIGA",
-      "club": "HC TPS",
-      "salaryUsd": 212500,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
-    },
-    {
       "playerId": "hannes-bjorninen",
       "playerName": "Hannes Björninen",
       "position": "C",
@@ -94,7 +70,7 @@
       "playerName": "Harri Säteri",
       "position": "G",
       "leagueId": "SWISS_NL",
-      "club": "EHC Biel",
+      "club": "EHC Biel-Bienne",
       "salaryUsd": 300000,
       "salaryEstimated": true,
       "line": "starterG",
@@ -165,16 +141,15 @@
       "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/NSH/8481020.png"
     },
     {
-      "playerId": "juuso-riikola",
-      "playerName": "Juuso Riikola",
-      "position": "D",
-      "leagueId": "SWISS_NL",
-      "club": "SCL Tigers",
-      "salaryUsd": 300000,
+      "playerId": "konsta-helenius",
+      "playerName": "Konsta Helenius",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "Buffalo Sabres",
+      "salaryUsd": 6625000,
       "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
+      "line": "2L",
+      "role": "top6"
     },
     {
       "playerId": "lenni-hameenaho",
@@ -187,6 +162,18 @@
       "line": "4L",
       "role": "bottom6",
       "nationalLine": "L4"
+    },
+    {
+      "playerId": "mikael-granlund",
+      "playerName": "Mikael Granlund",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "Anaheim Ducks",
+      "salaryUsd": 5000000,
+      "salaryEstimated": false,
+      "line": "2L",
+      "role": "top6",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/ANA/8475798.png"
     },
     {
       "playerId": "mikael-seppala",
@@ -211,18 +198,6 @@
       "line": "top4D",
       "role": "top4",
       "nationalLine": "D1"
-    },
-    {
-      "playerId": "miska-kukkonen",
-      "playerName": "Miska Kukkonen",
-      "position": "D",
-      "leagueId": "LIIGA",
-      "club": "HPK",
-      "salaryUsd": 212500,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
     },
     {
       "playerId": "nikolas-matinpalo",
@@ -261,18 +236,6 @@
       "line": "2L",
       "role": "top6",
       "nationalLine": "L2"
-    },
-    {
-      "playerId": "petteri-puhakka",
-      "playerName": "Petteri Puhakka",
-      "position": "C",
-      "leagueId": "SWISS_NL",
-      "club": "EHC Kloten",
-      "salaryUsd": 300000,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
     },
     {
       "playerId": "sakari-manninen",
@@ -324,18 +287,6 @@
       "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/LAK/8477960.png"
     },
     {
-      "playerId": "topias-vilen",
-      "playerName": "Topias Vilén",
-      "position": "D",
-      "leagueId": "AHL",
-      "club": "Utica Comets",
-      "salaryUsd": 275000,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
-    },
-    {
       "playerId": "urho-vaakanainen",
       "playerName": "Urho Vaakanainen",
       "position": "D",
@@ -372,18 +323,6 @@
       "role": "bottom2",
       "nationalLine": "D2",
       "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/WPG/8481572.png"
-    },
-    {
-      "playerId": "waltteri-ignatjew",
-      "playerName": "Waltteri Ignatjew",
-      "position": "G",
-      "leagueId": "SHL",
-      "club": "Linköping HC",
-      "salaryUsd": 215000,
-      "salaryEstimated": true,
-      "line": "backupG",
-      "role": "backup",
-      "nationalLine": "G2"
     },
     {
       "playerId": "waltteri-merela",

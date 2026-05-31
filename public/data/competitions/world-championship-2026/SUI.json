@@ -99,30 +99,6 @@
       "nationalLine": "L3"
     },
     {
-      "playerId": "fabian-heldner",
-      "playerName": "Fabian Heldner",
-      "position": "D",
-      "leagueId": "SWISS_NL",
-      "club": "Lausanne HC",
-      "salaryUsd": 300000,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
-    },
-    {
-      "playerId": "giancarlo-chanton",
-      "playerName": "Giancarlo Chanton",
-      "position": "D",
-      "leagueId": "SWISS_NL",
-      "club": "Genève-Servette Hockey Club",
-      "salaryUsd": 300000,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
-    },
-    {
       "playerId": "j-j-moser",
       "playerName": "J. J. Moser",
       "position": "D",
@@ -271,18 +247,6 @@
       "nationalLine": "L1"
     },
     {
-      "playerId": "simon-seiler",
-      "playerName": "Simon Seiler",
-      "position": "D",
-      "leagueId": "SWISS_NL",
-      "club": "HC Fribourg-Gottéron",
-      "salaryUsd": 300000,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
-    },
-    {
       "playerId": "sven-andrighetto",
       "playerName": "Sven Andrighetto",
       "position": "C",
@@ -342,30 +306,6 @@
       "role": "top6",
       "nationalLine": "L2",
       "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/NJD/8478414.png"
-    },
-    {
-      "playerId": "tyler-moy",
-      "playerName": "Tyler Moy",
-      "position": "C",
-      "leagueId": "SWISS_NL",
-      "club": "SC Rapperswil-Jona Lakers",
-      "salaryUsd": 300000,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
-    },
-    {
-      "playerId": "yannick-frehner",
-      "playerName": "Yannick Frehner",
-      "position": "C",
-      "leagueId": "SWISS_NL",
-      "club": "HC Davos",
-      "salaryUsd": 300000,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
     }
   ]
 }

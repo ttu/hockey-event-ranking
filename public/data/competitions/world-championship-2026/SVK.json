@@ -1,5 +1,282 @@
 {
   "teamId": "SVK",
   "competitionId": "world-championship-2026",
-  "players": []
+  "players": [
+    {
+      "playerId": "adam-gajan",
+      "playerName": "Adam Gajan",
+      "position": "G",
+      "leagueId": "AHL",
+      "club": "Rockford IceHogs",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "starterG",
+      "role": "starter"
+    },
+    {
+      "playerId": "adam-liska",
+      "playerName": "Adam Liška",
+      "position": "C",
+      "leagueId": "KHL",
+      "club": "Severstal Cherepovets",
+      "salaryUsd": 1300000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "adam-sykora",
+      "playerName": "Adam Sýkora",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "New York Rangers",
+      "salaryUsd": 6625000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "andrej-kollar",
+      "playerName": "Andrej Kollár",
+      "position": "C",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Kometa Brno",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "aurel-naus",
+      "playerName": "Aurel Nauš",
+      "position": "C",
+      "leagueId": "OTHER",
+      "club": "HK Poprad",
+      "salaryUsd": 85000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "eugen-rabcan",
+      "playerName": "Eugen Rabčan",
+      "position": "G",
+      "leagueId": "OTHER",
+      "club": "HC MONACObet Banská Bystrica",
+      "salaryUsd": 85000,
+      "salaryEstimated": true,
+      "line": "starterG",
+      "role": "starter"
+    },
+    {
+      "playerId": "filip-mesar",
+      "playerName": "Filip Mešár",
+      "position": "C",
+      "leagueId": "AHL",
+      "club": "Laval Rocket",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "frantisek-gajdos",
+      "playerName": "František Gajdoš",
+      "position": "D",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Litvínov",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "jakub-melisko",
+      "playerName": "Jakub Meliško",
+      "position": "D",
+      "leagueId": "OTHER",
+      "club": "HK Dukla Michalovce",
+      "salaryUsd": 85000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "jakub-minarik",
+      "playerName": "Jakub Minárik",
+      "position": "C",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Energie Karlovy Vary",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "kristian-pospisil",
+      "playerName": "Kristián Pospíšil",
+      "position": "C",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Kometa Brno",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "luka-radivojevic",
+      "playerName": "Luka Radivojevič",
+      "position": "D",
+      "leagueId": "OTHER",
+      "club": "Boston College Eagles men's ice hockey",
+      "salaryUsd": 85000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "marek-hrivik",
+      "playerName": "Marek Hrivík",
+      "position": "C",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Vítkovice Ridera",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "martin-chromiak",
+      "playerName": "Martin Chromiak",
+      "position": "C",
+      "leagueId": "AHL",
+      "club": "Ontario Reign",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "martin-fasko-rudas",
+      "playerName": "Martin Faško-Rudáš",
+      "position": "C",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Bílí Tygři Liberec",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "martin-pospisil",
+      "playerName": "Martin Pospíšil",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "Calgary Flames",
+      "salaryUsd": 6000000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/CGY/8481028.png"
+    },
+    {
+      "playerId": "maxim-strbak",
+      "playerName": "Maxim Štrbák",
+      "position": "D",
+      "leagueId": "AHL",
+      "club": "Rochester Americans",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "mislav-rosandic",
+      "playerName": "Mislav Rosandić",
+      "position": "D",
+      "leagueId": "OTHER",
+      "club": "HC Košice",
+      "salaryUsd": 85000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "oliver-okuliar",
+      "playerName": "Oliver Okuliar",
+      "position": "C",
+      "leagueId": "SHL",
+      "club": "Skellefteå AIK",
+      "salaryUsd": 215000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "patrik-koch",
+      "playerName": "Patrik Koch",
+      "position": "D",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Oceláři Třinec",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "samuel-hlavaj",
+      "playerName": "Samuel Hlavaj",
+      "position": "G",
+      "leagueId": "AHL",
+      "club": "Iowa Wild",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "starterG",
+      "role": "starter"
+    },
+    {
+      "playerId": "samuel-knazko",
+      "playerName": "Samuel Kňažko",
+      "position": "D",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Vítkovice Ridera",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "sebastian-cederle",
+      "playerName": "Sebastián Čederle",
+      "position": "C",
+      "leagueId": "OTHER",
+      "club": "HK Nitra",
+      "salaryUsd": 85000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "servac-petrovsky",
+      "playerName": "Servác Petrovský",
+      "position": "C",
+      "leagueId": "EXTRALIGA",
+      "club": "HC Bílí Tygři Liberec",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "viliam-kmec",
+      "playerName": "Viliam Kmec",
+      "position": "D",
+      "leagueId": "AHL",
+      "club": "Henderson Silver Knights",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    }
+  ]
 }

@@ -72,7 +72,7 @@
       "playerName": "Drew Commesso",
       "position": "G",
       "leagueId": "AHL",
-      "club": "Rockford Ice Hogs",
+      "club": "Rockford IceHogs",
       "salaryUsd": 275000,
       "salaryEstimated": true,
       "line": "backupG",
@@ -270,18 +270,6 @@
       "line": "top4D",
       "role": "top4",
       "nationalLine": "D1"
-    },
-    {
-      "playerId": "ryker-lee",
-      "playerName": "Ryker Lee",
-      "position": "C",
-      "leagueId": "AHL",
-      "club": "Michigan State Spartans men's ice hockey",
-      "salaryUsd": 275000,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
     },
     {
       "playerId": "sam-lafferty",

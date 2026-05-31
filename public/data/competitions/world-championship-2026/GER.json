@@ -3,18 +3,6 @@
   "competitionId": "world-championship-2026",
   "players": [
     {
-      "playerId": "alexander-blank",
-      "playerName": "Alexander Blank",
-      "position": "C",
-      "leagueId": "DEL",
-      "club": "Augsburger Panther",
-      "salaryUsd": 245000,
-      "salaryEstimated": true,
-      "line": "2L",
-      "role": "top6",
-      "nationalLine": "L2"
-    },
-    {
       "playerId": "alexander-ehl",
       "playerName": "Alexander Ehl",
       "position": "C",
@@ -39,40 +27,27 @@
       "nationalLine": "L3"
     },
     {
-      "playerId": "arkadiusz-dziambor",
-      "playerName": "Arkadiusz Dziambor",
-      "position": "D",
+      "playerId": "andreas-eder",
+      "playerName": "Andreas Eder",
+      "position": "C",
       "leagueId": "DEL",
-      "club": "Schwenninger Wild Wings",
+      "club": "EHC Red Bull München",
       "salaryUsd": 245000,
       "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
+      "line": "2L",
+      "role": "top6"
     },
     {
       "playerId": "daniel-fischbuch",
       "playerName": "Daniel Fischbuch",
       "position": "C",
       "leagueId": "DEL",
-      "club": "Iserlohn Roosters",
+      "club": "Kölner Haie",
       "salaryUsd": 245000,
       "salaryEstimated": true,
       "line": "4L",
       "role": "bottom6",
       "nationalLine": "L4"
-    },
-    {
-      "playerId": "dominik-bokk",
-      "playerName": "Dominik Bokk",
-      "position": "C",
-      "leagueId": "DEL",
-      "club": "Kölner Haie",
-      "salaryUsd": 245000,
-      "salaryEstimated": true,
-      "line": "2L",
-      "role": "top6",
-      "nationalLine": "L2"
     },
     {
       "playerId": "dominik-kahun",
@@ -87,6 +62,17 @@
       "nationalLine": "L4"
     },
     {
+      "playerId": "eric-mik",
+      "playerName": "Eric Mik",
+      "position": "D",
+      "leagueId": "DEL",
+      "club": "Eisbären Berlin",
+      "salaryUsd": 245000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
       "playerId": "fabio-wagner",
       "playerName": "Fabio Wagner",
       "position": "D",
@@ -99,16 +85,26 @@
       "nationalLine": "D1"
     },
     {
-      "playerId": "jan-luca-sennhenn",
-      "playerName": "Jan Luca Sennhenn",
-      "position": "D",
+      "playerId": "frederik-tiffels",
+      "playerName": "Frederik Tiffels",
+      "position": "C",
       "leagueId": "DEL",
-      "club": "Kölner Haie",
+      "club": "Eisbären Berlin",
       "salaryUsd": 245000,
       "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "jonas-stettmer",
+      "playerName": "Jonas Stettmer",
+      "position": "G",
+      "leagueId": "DEL",
+      "club": "ERC Ingolstadt",
+      "salaryUsd": 245000,
+      "salaryEstimated": true,
+      "line": "starterG",
+      "role": "starter"
     },
     {
       "playerId": "joshua-samanski",
@@ -123,16 +119,15 @@
       "nationalLine": "L3"
     },
     {
-      "playerId": "julius-karrer",
-      "playerName": "Julius Karrer",
+      "playerId": "kai-wissmann",
+      "playerName": "Kai Wissmann",
       "position": "D",
       "leagueId": "DEL",
-      "club": "Nürnberg Ice Tigers",
+      "club": "Eisbären Berlin",
       "salaryUsd": 245000,
       "salaryEstimated": true,
       "line": "top4D",
-      "role": "top4",
-      "nationalLine": "D1"
+      "role": "top4"
     },
     {
       "playerId": "leon-gawanke",
@@ -147,18 +142,6 @@
       "nationalLine": "D1"
     },
     {
-      "playerId": "leon-hungerecker",
-      "playerName": "Leon Hungerecker",
-      "position": "G",
-      "leagueId": "DEL",
-      "club": "Nürnberg Ice Tigers",
-      "salaryUsd": 245000,
-      "salaryEstimated": true,
-      "line": "backupG",
-      "role": "backup",
-      "nationalLine": "G2"
-    },
-    {
       "playerId": "leon-huttl",
       "playerName": "Leon Hüttl",
       "position": "D",
@@ -169,6 +152,28 @@
       "line": "top4D",
       "role": "top4",
       "nationalLine": "D1"
+    },
+    {
+      "playerId": "lukas-reichel",
+      "playerName": "Lukas Reichel",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "Boston Bruins",
+      "salaryUsd": 6625000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "manuel-wiederer",
+      "playerName": "Manuel Wiederer",
+      "position": "C",
+      "leagueId": "DEL",
+      "club": "Eisbären Berlin",
+      "salaryUsd": 245000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
     },
     {
       "playerId": "marc-michaelis",
@@ -244,23 +249,11 @@
       "nationalLine": "L1"
     },
     {
-      "playerId": "niklas-treutle",
-      "playerName": "Niklas Treutle",
-      "position": "G",
-      "leagueId": "DEL",
-      "club": "Fischtown Pinguins",
-      "salaryUsd": 245000,
-      "salaryEstimated": true,
-      "line": "backupG",
-      "role": "backup",
-      "nationalLine": "G2"
-    },
-    {
       "playerId": "parker-tuomie",
       "playerName": "Parker Tuomie",
       "position": "C",
       "leagueId": "DEL",
-      "club": "Kölner Haie",
+      "club": "Fischtown Pinguins",
       "salaryUsd": 245000,
       "salaryEstimated": true,
       "line": "4L",
@@ -315,30 +308,6 @@
       "line": "1L",
       "role": "top6",
       "nationalLine": "L1"
-    },
-    {
-      "playerId": "tim-brunnhuber",
-      "playerName": "Tim Brunnhuber",
-      "position": "C",
-      "leagueId": "DEL",
-      "club": "Straubing Tigers",
-      "salaryUsd": 245000,
-      "salaryEstimated": true,
-      "line": "3L",
-      "role": "bottom6",
-      "nationalLine": "L3"
-    },
-    {
-      "playerId": "tim-fleischer",
-      "playerName": "Tim Fleischer",
-      "position": "C",
-      "leagueId": "DEL",
-      "club": "Straubing Tigers",
-      "salaryUsd": 245000,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
     }
   ]
 }

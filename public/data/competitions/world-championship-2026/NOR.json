@@ -7,7 +7,7 @@
       "playerName": "Adrian Saxrud-Danielsen",
       "position": "D",
       "leagueId": "OTHER",
-      "club": "Vålerenga Ishockey",
+      "club": "Storhamar Hockey",
       "salaryUsd": 85000,
       "salaryEstimated": true,
       "line": "top4D",
@@ -39,16 +39,15 @@
       "nationalLine": "D2"
     },
     {
-      "playerId": "eirik-ostrem-salsten",
-      "playerName": "Eirik Østrem Salsten",
+      "playerId": "eirik-salsten",
+      "playerName": "Eirik Salsten",
       "position": "C",
       "leagueId": "DEL",
       "club": "Iserlohn Roosters",
       "salaryUsd": 245000,
       "salaryEstimated": true,
-      "line": "1L",
-      "role": "top6",
-      "nationalLine": "L1"
+      "line": "2L",
+      "role": "top6"
     },
     {
       "playerId": "eskild-bakke-olsen",
@@ -183,6 +182,17 @@
       "nationalLine": "D1"
     },
     {
+      "playerId": "michael-brandsegg-nygard",
+      "playerName": "Michael Brandsegg-Nygård",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "Detroit Red Wings",
+      "salaryUsd": 6625000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
       "playerId": "mikkel-eriksen",
       "playerName": "Mikkel Eriksen",
       "position": "C",
@@ -199,7 +209,7 @@
       "playerName": "Mikkel Øby Olsen",
       "position": "C",
       "leagueId": "SHL",
-      "club": "Almtuna IS",
+      "club": "IK Oskarshamn",
       "salaryUsd": 215000,
       "salaryEstimated": true,
       "line": "4L",
@@ -210,9 +220,9 @@
       "playerId": "noah-steen",
       "playerName": "Noah Steen",
       "position": "C",
-      "leagueId": "AHL",
-      "club": "Syracuse Crunch",
-      "salaryUsd": 275000,
+      "leagueId": "SHL",
+      "club": "Örebro HK",
+      "salaryUsd": 215000,
       "salaryEstimated": true,
       "line": "1L",
       "role": "top6",
@@ -271,7 +281,7 @@
       "playerName": "Thomas Olsen (ice hockey)",
       "position": "C",
       "leagueId": "LIIGA",
-      "club": "Jukurit",
+      "club": "Mikkelin Jukurit",
       "salaryUsd": 212500,
       "salaryEstimated": true,
       "line": "2L",

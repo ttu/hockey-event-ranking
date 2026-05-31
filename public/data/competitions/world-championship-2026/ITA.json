@@ -1,5 +1,281 @@
 {
   "teamId": "ITA",
   "competitionId": "world-championship-2026",
-  "players": []
+  "players": [
+    {
+      "playerId": "alessandro-segafredo",
+      "playerName": "Alessandro Segafredo",
+      "position": "C",
+      "leagueId": "SWISS_NL",
+      "club": "ZSC Lions",
+      "salaryUsd": 300000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "alex-trivellato",
+      "playerName": "Alex Trivellato",
+      "position": "D",
+      "leagueId": "DEL",
+      "club": "Schwenninger Wild Wings",
+      "salaryUsd": 245000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "bryce-misley",
+      "playerName": "Bryce Misley",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Bolzano",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "carmine-buono",
+      "playerName": "Carmine Buono",
+      "position": "D",
+      "leagueId": "ICEHL",
+      "club": "HC Gherdëina",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "cristiano-digiacinto",
+      "playerName": "Cristiano DiGiacinto",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Bolzano",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "damian-clara",
+      "playerName": "Damian Clara",
+      "position": "G",
+      "leagueId": "AHL",
+      "club": "San Diego Gulls",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "starterG",
+      "role": "starter"
+    },
+    {
+      "playerId": "daniel-mantenuto",
+      "playerName": "Daniel Mantenuto",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Bolzano",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "davide-fadani",
+      "playerName": "Davide Fadani",
+      "position": "G",
+      "leagueId": "SWISS_NL",
+      "club": "EHC Kloten",
+      "salaryUsd": 300000,
+      "salaryEstimated": true,
+      "line": "starterG",
+      "role": "starter"
+    },
+    {
+      "playerId": "dylan-di-perna",
+      "playerName": "Dylan Di Perna",
+      "position": "D",
+      "leagueId": "ICEHL",
+      "club": "HC Bolzano",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "gabriel-nitz",
+      "playerName": "Gabriel Nitz",
+      "position": "D",
+      "leagueId": "ICEHL",
+      "club": "Wipptal Broncos",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "gregorio-gios",
+      "playerName": "Gregorio Gios",
+      "position": "D",
+      "leagueId": "ICEHL",
+      "club": "Asiago Hockey 1935",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "ivan-deluca",
+      "playerName": "Ivan Deluca",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Pustertal Wölfe",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "jacob-smith",
+      "playerName": "Jacob Smith",
+      "position": "G",
+      "leagueId": "OTHER",
+      "club": "Ducs d'Angers",
+      "salaryUsd": 85000,
+      "salaryEstimated": true,
+      "line": "starterG",
+      "role": "starter"
+    },
+    {
+      "playerId": "luca-frigo",
+      "playerName": "Luca Frigo",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Bolzano",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "luca-zanatta",
+      "playerName": "Luca Zanatta",
+      "position": "D",
+      "leagueId": "ICEHL",
+      "club": "HC Pustertal Wölfe",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "marco-zanetti",
+      "playerName": "Marco Zanetti",
+      "position": "C",
+      "leagueId": "SWISS_NL",
+      "club": "HC Lugano",
+      "salaryUsd": 300000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "matt-bradley",
+      "playerName": "Matt Bradley",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Bolzano",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "matthias-mantinger",
+      "playerName": "Matthias Mantinger",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Pustertal Wölfe",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "mikael-frycklund",
+      "playerName": "Mikael Frycklund",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Pustertal Wölfe",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "niccolo-mansueto",
+      "playerName": "Niccolò Mansueto",
+      "position": "C",
+      "leagueId": "SWISS_NL",
+      "club": "HC Sierre",
+      "salaryUsd": 300000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "nick-saracino",
+      "playerName": "Nick Saracino",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Bolzano",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "peter-spornberger",
+      "playerName": "Peter Spornberger",
+      "position": "D",
+      "leagueId": "DEL",
+      "club": "ERC Ingolstadt",
+      "salaryUsd": 245000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "phil-pietroniro",
+      "playerName": "Phil Pietroniro",
+      "position": "D",
+      "leagueId": "EXTRALIGA",
+      "club": "Rytíři Kladno",
+      "salaryUsd": 175000,
+      "salaryEstimated": true,
+      "line": "top4D",
+      "role": "top4"
+    },
+    {
+      "playerId": "tommaso-de-luca",
+      "playerName": "Tommaso de Luca",
+      "position": "C",
+      "leagueId": "SWISS_NL",
+      "club": "HC Ambrì-Piotta",
+      "salaryUsd": 300000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
+      "playerId": "tommy-purdeller",
+      "playerName": "Tommy Purdeller",
+      "position": "C",
+      "leagueId": "ICEHL",
+      "club": "HC Pustertal Wölfe",
+      "salaryUsd": 110000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    }
+  ]
 }

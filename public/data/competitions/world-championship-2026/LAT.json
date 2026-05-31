@@ -6,9 +6,9 @@
       "playerId": "alberts-smits",
       "playerName": "Alberts Šmits",
       "position": "D",
-      "leagueId": "DEL",
-      "club": "EHC Red Bull München",
-      "salaryUsd": 245000,
+      "leagueId": "LIIGA",
+      "club": "Mikkelin Jukurit",
+      "salaryUsd": 212500,
       "salaryEstimated": true,
       "line": "top4D",
       "role": "top4",
@@ -27,18 +27,6 @@
       "nationalLine": "D2"
     },
     {
-      "playerId": "arvils-bergmanis",
-      "playerName": "Arvils Bergmanis",
-      "position": "D",
-      "leagueId": "SHL",
-      "club": "IF Troja-Ljungby",
-      "salaryUsd": 215000,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
-    },
-    {
       "playerId": "deniss-smirnovs",
       "playerName": "Deniss Smirnovs",
       "position": "C",
@@ -51,16 +39,15 @@
       "nationalLine": "L3"
     },
     {
-      "playerId": "filips-buncis",
-      "playerName": "Filips Buncis",
+      "playerId": "eduards-tralmaks",
+      "playerName": "Eduards Tralmaks",
       "position": "C",
-      "leagueId": "OTHER",
-      "club": "Rungsted Ishockey Klub",
-      "salaryUsd": 85000,
+      "leagueId": "AHL",
+      "club": "Grand Rapids Griffins",
+      "salaryUsd": 275000,
       "salaryEstimated": true,
       "line": "2L",
-      "role": "top6",
-      "nationalLine": "L2"
+      "role": "top6"
     },
     {
       "playerId": "glebs-prohorenkovs",
@@ -99,30 +86,6 @@
       "nationalLine": "L3"
     },
     {
-      "playerId": "janis-fecers",
-      "playerName": "Jānis Fecers",
-      "position": "G",
-      "leagueId": "OTHER",
-      "club": "Herning Blue Fox",
-      "salaryUsd": 85000,
-      "salaryEstimated": true,
-      "line": "backupG",
-      "role": "backup",
-      "nationalLine": "G2"
-    },
-    {
-      "playerId": "klavs-veinbergs",
-      "playerName": "Klāvs Veinbergs",
-      "position": "C",
-      "leagueId": "AHL",
-      "club": "Colorado College Tigers men's ice hockey",
-      "salaryUsd": 275000,
-      "salaryEstimated": true,
-      "line": "3L",
-      "role": "bottom6",
-      "nationalLine": "L3"
-    },
-    {
       "playerId": "kristaps-skrastins",
       "playerName": "Kristaps Skrastiņš",
       "position": "C",
@@ -147,18 +110,6 @@
       "nationalLine": "D2"
     },
     {
-      "playerId": "kristers-gudlevskis",
-      "playerName": "Kristers Gudļevskis",
-      "position": "G",
-      "leagueId": "OTHER",
-      "club": "Fischtown Pinguins",
-      "salaryUsd": 85000,
-      "salaryEstimated": true,
-      "line": "backupG",
-      "role": "backup",
-      "nationalLine": "G2"
-    },
-    {
       "playerId": "kristofers-bindulis",
       "playerName": "Kristofers Bindulis",
       "position": "D",
@@ -181,18 +132,6 @@
       "line": "starterG",
       "role": "starter",
       "nationalLine": "G1"
-    },
-    {
-      "playerId": "markuss-komuls",
-      "playerName": "Markuss Komuls",
-      "position": "D",
-      "leagueId": "EXTRALIGA",
-      "club": "HC Litvínov",
-      "salaryUsd": 175000,
-      "salaryEstimated": true,
-      "line": "top4D",
-      "role": "top4",
-      "nationalLine": "D1"
     },
     {
       "playerId": "martins-dzierkals",
@@ -243,18 +182,6 @@
       "nationalLine": "L2"
     },
     {
-      "playerId": "oskars-cibulskis",
-      "playerName": "Oskars Cibuļskis",
-      "position": "D",
-      "leagueId": "OTHER",
-      "club": "Herning Blue Fox",
-      "salaryUsd": 85000,
-      "salaryEstimated": true,
-      "line": "top4D",
-      "role": "top4",
-      "nationalLine": "D1"
-    },
-    {
       "playerId": "oskars-lapinskis",
       "playerName": "Oskars Lapinskis",
       "position": "C",
@@ -267,23 +194,11 @@
       "nationalLine": "L4"
     },
     {
-      "playerId": "patriks-zabusovs",
-      "playerName": "Patriks Zabusovs",
-      "position": "C",
-      "leagueId": "OTHER",
-      "club": "HK Zemgale/LBTU",
-      "salaryUsd": 85000,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
-    },
-    {
       "playerId": "ralfs-freibergs",
       "playerName": "Ralfs Freibergs",
       "position": "D",
       "leagueId": "EXTRALIGA",
-      "club": "HC Vítkovice Ridera",
+      "club": "Mountfield HK",
       "salaryUsd": 175000,
       "salaryEstimated": true,
       "line": "top4D",
@@ -330,13 +245,14 @@
       "playerId": "sandis-vilmanis",
       "playerName": "Sandis Vilmanis",
       "position": "C",
-      "leagueId": "AHL",
-      "club": "Charlotte Checkers",
-      "salaryUsd": 275000,
+      "leagueId": "NHL",
+      "club": "Florida Panthers",
+      "salaryUsd": 2500000,
       "salaryEstimated": true,
       "line": "4L",
       "role": "bottom6",
-      "nationalLine": "L4"
+      "nationalLine": "L4",
+      "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/FLA/8483771.png"
     },
     {
       "playerId": "toms-andersons",

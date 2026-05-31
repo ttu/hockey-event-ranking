@@ -15,18 +15,6 @@
       "nationalLine": "G2"
     },
     {
-      "playerId": "andras-mihalik",
-      "playerName": "András Mihalik",
-      "position": "C",
-      "leagueId": "OTHER",
-      "club": "Ferencvárosi TC",
-      "salaryUsd": 85000,
-      "salaryEstimated": true,
-      "line": "1L",
-      "role": "top6",
-      "nationalLine": "L1"
-    },
-    {
       "playerId": "balazs-sebok",
       "playerName": "Balázs Sebők",
       "position": "C",
@@ -55,7 +43,7 @@
       "playerName": "Bence Horváth",
       "position": "C",
       "leagueId": "LIIGA",
-      "club": "Jukurit",
+      "club": "Mikkelin Jukurit",
       "salaryUsd": 212500,
       "salaryEstimated": true,
       "line": "4L",
@@ -109,30 +97,6 @@
       "line": "1L",
       "role": "top6",
       "nationalLine": "L1"
-    },
-    {
-      "playerId": "donat-horvath",
-      "playerName": "Donát Horváth",
-      "position": "D",
-      "leagueId": "OTHER",
-      "club": "Fehérvár AV19",
-      "salaryUsd": 85000,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
-    },
-    {
-      "playerId": "donat-peter",
-      "playerName": "Donát Péter",
-      "position": "C",
-      "leagueId": "DEL",
-      "club": "Eisbären Regensburg",
-      "salaryUsd": 245000,
-      "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
     },
     {
       "playerId": "gabor-tornyai",

@@ -42,6 +42,17 @@
       "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/EDM/8477498.png"
     },
     {
+      "playerId": "dawson-mercer",
+      "playerName": "Dawson Mercer",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "New Jersey Devils",
+      "salaryUsd": 6625000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
+    },
+    {
       "playerId": "denton-mateychuk",
       "playerName": "Denton Mateychuk",
       "position": "D",
@@ -234,6 +245,17 @@
       "role": "bottom2",
       "nationalLine": "D2",
       "headshotUrl": "https://assets.nhle.com/mugs/nhl/20252026/PIT/8478450.png"
+    },
+    {
+      "playerId": "porter-martone",
+      "playerName": "Porter Martone",
+      "position": "C",
+      "leagueId": "NHL",
+      "club": "Philadelphia Flyers",
+      "salaryUsd": 6625000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
     },
     {
       "playerId": "robert-thomas",

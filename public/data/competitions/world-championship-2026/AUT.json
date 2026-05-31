@@ -243,18 +243,6 @@
       "nationalLine": "L1"
     },
     {
-      "playerId": "philipp-wimmer",
-      "playerName": "Philipp Wimmer",
-      "position": "D",
-      "leagueId": "ICEHL",
-      "club": "EC Red Bull Salzburg",
-      "salaryUsd": 110000,
-      "salaryEstimated": true,
-      "line": "bottomD",
-      "role": "bottom2",
-      "nationalLine": "D2"
-    },
-    {
       "playerId": "ramon-schnetzer",
       "playerName": "Ramon Schnetzer",
       "position": "D",
@@ -267,16 +255,15 @@
       "nationalLine": "D1"
     },
     {
-      "playerId": "simeon-schiwnger",
-      "playerName": "Simeon Schiwnger",
+      "playerId": "simeon-schwinger",
+      "playerName": "Simeon Schwinger",
       "position": "C",
       "leagueId": "ICEHL",
       "club": "EC KAC",
       "salaryUsd": 110000,
       "salaryEstimated": true,
-      "line": "4L",
-      "role": "bottom6",
-      "nationalLine": "L4"
+      "line": "2L",
+      "role": "top6"
     },
     {
       "playerId": "thimo-nickl",
@@ -301,6 +288,17 @@
       "line": "3L",
       "role": "bottom6",
       "nationalLine": "L3"
+    },
+    {
+      "playerId": "vinzenz-rohrer",
+      "playerName": "Vinzenz Rohrer",
+      "position": "C",
+      "leagueId": "AHL",
+      "club": "Laval Rocket",
+      "salaryUsd": 275000,
+      "salaryEstimated": true,
+      "line": "2L",
+      "role": "top6"
     }
   ]
 }
